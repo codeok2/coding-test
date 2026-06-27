@@ -1,2 +1,58 @@
-# coding-test
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# 💻 Coding Test
+
+> 알고리즘 문제 풀이 기록입니다.
+> 매일 꾸준히 풀고, 어려웠던 문제는 따로 회고를 남깁니다.
+
+## 🛠 환경
+
+- **언어**: Java
+- **플랫폼**: [프로그래머스](https://programmers.co.kr/) · [SWEA](https://swexpertacademy.com/)
+- **자동화**: [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub) (정답 시 자동 커밋)
+
+## 📊 진행 현황
+
+> 최종 업데이트: 2026-06-27   <!-- 주 1회 직접 갱신 -->
+
+| 플랫폼 | 레벨 | 푼 문제 | 비고 |
+|---|---|---|---|
+| 프로그래머스 | Lv.1 | 01 / 150 | 정답률 높은 순 진행 |
+| 프로그래머스 | Lv.2 | 00 | 7월~ |
+| 프로그래머스 | 고득점 Kit | 00 | 해시·스택/큐·정렬 |
+| SWEA | D3 | 00 | 7월~ |
+| **누적** | — | **00** | — |
+
+## 📂 폴더 구조
+
+```
+├── 프로그래머스/
+│   ├── level1/   ← 레벨별 자동 분류
+│   ├── level2/
+│   └── ...
+├── SWEA/
+└── retrospect/   ← 어려웠던 문제 회고·오답노트
+```
+
+각 문제 폴더에는 문제 설명(`README.md`)과 풀이 코드(`.java`)가 함께 들어 있습니다.
+
+## 🗂 유형별 정리
+
+자주 출제되는 유형을 따로 정리합니다. (학습 진행에 따라 추가)
+
+- [ ] 해시 (Hash)
+- [ ] 스택 / 큐 (Stack / Queue)
+- [ ] 정렬 (Sort)
+- [ ] 완전 탐색 (Brute Force)
+- [ ] 그리디 (Greedy)
+- [ ] DFS / BFS
+- [ ] 동적 계획법 (DP)
+- [ ] 이분 탐색 (Binary Search)
+
+## ✍️ 회고
+
+특히 어려웠거나 새로운 풀이를 배운 문제는 `retrospect/`에 따로 정리합니다.
+
+- [2026년 6월 회고](./retrospect/2026-06.md)
+
+---
+
+*꾸준함을 코드로 증명하는 중입니다.* 🌱
